@@ -1,0 +1,40 @@
+nav a{
+    margin: auto;
+    color: black;
+    text-decoration: none;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+nav#head {
+    width: 100%;
+    padding-right: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-bottom: 20px;
+    background-color: #6fa8dc;
+}
+
+section#section1{
+
+}
+
+img#slotta{
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+}
+
+h1#titel1{
+    font-size: 40px;
+    text-align: center;
+}
+
+article#wiki{
+    width: 40%;
+    font-size: 25px;
+    text-align: center;
+}
